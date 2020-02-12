@@ -42,5 +42,34 @@
         }
       }
     ]
+  },
+  {
+    "impulse_change": {
+    }
+  },
+  {
+    "impulse_change_documents": {
+      "result": {
+        "docs": [
+          {
+            "BRV Doc_id": "fcecdb0cdb5cf8fbdh90f0152c961946",
+            "BRV Attachment_Link": "https://socgentest.service-now.com/sys_attachment.do?sys_id=fcecdb0cdb5cf8fbdh90f0152c961946"
+          },
+          {
+            "TestResult Doc_id": "59ec5708dbd43f836h9e9635db961931",
+            "TestResult Attachment_Link": "https://socgentest.service-now.com/sys_attachment.do?sys_id=59ec5708dbd43f836h9e9635db961931"
+          },
+          {
+            "Go/No-Go Doc_id": "21ec9744dbd0bb4c9cf1gh8l0f96196b",
+            "Go/No-Go Attachment_Link": "https://socgentest.service-now.com/sys_attachment.do?sys_id=21ec9744dbd0bb4c9cf1gh8l0f96196b"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "impulse_document": {
+      "file_name": "test" 
+    }
   }
 }
