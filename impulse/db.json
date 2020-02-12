@@ -1,0 +1,14 @@
+{
+  "new_changes": [
+    {
+      "number": "SCH456123789",
+      "state": "OPEN",
+      "application": "MON APP"
+    },
+    {
+      "number": "NUMEROBIS",
+      "state": "CLOSED",
+      "application": "MON AUTRE APP"
+    }
+  ]
+}
