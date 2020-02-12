@@ -1,14 +1,42 @@
 {
-  "new_changes": [
-    {
-      "number": "SCH456123789",
-      "state": "OPEN",
-      "application": "MON APP"
-    },
-    {
-      "number": "NUMEROBIS",
-      "state": "CLOSED",
-      "application": "MON AUTRE APP"
-    }
-  ]
+  "impulse_new_changes": {
+    'result': [
+      {
+        'end_date': '2017-04-09 07:00:00',
+        'number': 'CHG000084957',
+        'sys_id': '0fewgb72cdb217e4jfef4fd14fwefadf9ad',
+        'cmdb_ci': {
+          'display_value': 'GMAIL',
+          'link': 'https://socgentest.service-now.com/api/now/table/cmdb_ci/0fewgb72cdb217e4jfef4fd14fwefadf9ad'
+        }
+      },
+      {
+        'end_date': '2017-05-10 00:30:00',
+        'number': 'CHG000087245',
+        'sys_id': '00f29130bgiuaa6401f65f80fdj903e',
+        'cmdb_ci': {
+          'display_value': 'GMAIL',
+          'link': 'https://socgentest.service-now.com/api/now/table/cmdb_ci/00f29130bgiuaa6401f65f80fdj903e'
+        }
+      },
+      {
+        'end_date': '2016-05-10 04:30:07',
+        'number': 'CHG000020987',
+        'sys_id': '012e14d1dbd39e980756423gkwi871960',
+        'cmdb_ci': {
+          'display_value': 'GMAIL',
+          'link': 'https://socgentest.service-now.com/api/now/table/cmdb_ci/012e14d1dbd39e980756423gkwi871960'
+        }
+      },
+      {
+        'end_date': '2017-05-24 15:00:00',
+        'number': 'CHG000025957',
+        'sys_id': '015e684fdbb27a8c36zzlf041d961920',
+        'cmdb_ci': {
+          'display_value': 'GMAIL',
+          'link': 'https://socgentest.service-now.com/api/now/table/cmdb_ci/015e684fdbb27a8c36zzlf041d961920'
+        }
+      }
+    ]
+  }
 }
