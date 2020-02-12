@@ -4,6 +4,7 @@
       {
         "end_date": "2017-04-09 07:00:00",
         "number": "CHG000084957",
+        "state" : "OPEN",
         "sys_id": "0fewgb72cdb217e4jfef4fd14fwefadf9ad",
         "cmdb_ci": {
           "display_value": "GMAIL",
@@ -13,6 +14,7 @@
       {
         "end_date": "2017-05-10 00:30:00",
         "number": "CHG000087245",
+        "state" : "OPEN",
         "sys_id": "00f29130bgiuaa6401f65f80fdj903e",
         "cmdb_ci": {
           "display_value": "GMAIL",
@@ -22,6 +24,7 @@
       {
         "end_date": "2016-05-10 04:30:07",
         "number": "CHG000020987",
+        "state" : "CLOSED",
         "sys_id": "012e14d1dbd39e980756423gkwi871960",
         "cmdb_ci": {
           "display_value": "GMAIL",
@@ -31,6 +34,7 @@
       {
         "end_date": "2017-05-24 15:00:00",
         "number": "CHG000025957",
+        "state" : "CLOSED",
         "sys_id": "015e684fdbb27a8c36zzlf041d961920",
         "cmdb_ci": {
           "display_value": "GMAIL",
