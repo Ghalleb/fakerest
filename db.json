@@ -1,25 +1,16 @@
 {
-  "country": [
-    {
-      "id": 1,
-      "name": "Russia",
-      "flag": "f/f3/Flag_of_Russia.svg",
-      "area": 17075200,
-      "population": 146989754
-    },
-    {
-      "id": 2,
-      "name": "France",
-      "flag": "c/c3/Flag_of_France.svg",
-      "area": 640679,
-      "population": 64979548
-    },
-    {
-      "id": 3,
-      "name": "Germany",
-      "flag": "b/ba/Flag_of_Germany.svg",
-      "area": 357114,
-      "population": 82114224
-    }
-  ]
+  "impulse": {
+    "new_changes": [
+      {
+        "number": "SCH456123789",
+        "state": "OPEN",
+        "application": "MON APP"
+      },
+      {
+        "number": "NUMEROBIS",
+        "state": "CLOSED",
+        "application": "MON AUTRE APP"
+      }
+    ]
+  }
 }
