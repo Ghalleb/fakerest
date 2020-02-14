@@ -16,7 +16,7 @@
         },
         "u_change_model":"Standard",
         "phase_state":"Open",
-        "state":"Cancelled",
+        "state":"Opened",
         "sys_updated_on":"2020-01-11 00:00:02",
         "closed_by":{ 
           "display_value":"Jean Edouard",
@@ -38,7 +38,7 @@
         },
         "u_change_model":"Standard",
         "phase_state":"Open",
-        "state":"Cancelled",
+        "state":"Opened",
         "sys_updated_on":"2020-01-11 00:00:03",
         "closed_by":{ 
           "display_value":"Helene Tilleuil",
@@ -60,7 +60,7 @@
         },
         "u_change_model":"Standard",
         "phase_state":"Open",
-        "state":"Cancelled",
+        "state":"Closed",
         "sys_updated_on":"2020-01-11 00:00:04",
         "closed_by":{ 
           "display_value":"Jacques Breti",
@@ -82,7 +82,7 @@
         },
         "u_change_model":"Standard",
         "phase_state":"Open",
-        "state":"Cancelled",
+        "state":"Closed",
         "sys_updated_on":"2020-01-11 01:00:02",
         "closed_by":{ 
           "display_value":"Michel Ceti",
@@ -104,7 +104,7 @@
         },
         "u_change_model":"Standard",
         "phase_state":"Open",
-        "state":"Cancelled",
+        "state":"Closed",
         "sys_updated_on":"2020-01-11 01:00:03",
         "closed_by":{ 
           "display_value":"Christian Ledoc",
