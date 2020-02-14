@@ -1,44 +1,114 @@
 {
   "impulse_new_changes": {
-    "result": [
-      {
-        "end_date": "2017-04-09 07:00:00",
-        "number": "CHG000084957",
-        "state" : "OPEN",
-        "sys_id": "0fewgb72cdb217e4jfef4fd14fwefadf9ad",
-        "cmdb_ci": {
-          "display_value": "GMAIL",
-          "link": "https://socgentest.service-now.com/api/now/table/cmdb_ci/0fewgb72cdb217e4jfef4fd14fwefadf9ad"
+    "result": [ 
+      { 
+        "number":"CHG000492085",
+        "sys_id":"84e4a9d1db59cc10g69kr4584c9619ac",
+        "opened_at":"2019-11-22 19:50:05",
+        "closed_at":"2020-01-11 00:00:02",
+        "opened_by":{ 
+          "display_value":"Jean Edouard",
+          "link":"https://socgentest.service-now.com/api/now/table/sys_user/84e4a9d1db59cc10g69kr0152c9619ac"
+        },
+        "cmdb_ci":{ 
+          "display_value":"WORD",
+          "link":"https://socgentest.service-now.com/api/now/table/cmdb_ci/a0b79208db42gk5f089ef3061d9619d3"
+        },
+        "u_change_model":"Standard",
+        "phase_state":"Open",
+        "state":"Cancelled",
+        "sys_updated_on":"2020-01-11 00:00:02",
+        "closed_by":{ 
+          "display_value":"Jean Edouard",
+          "link":"https://socgentest.service-now.com/api/now/table/sys_user/84e4a9d1db59cc10g69kr0152c9619ac"
         }
       },
-      {
-        "end_date": "2017-05-10 00:30:00",
-        "number": "CHG000087245",
-        "state" : "OPEN",
-        "sys_id": "00f29130bgiuaa6401f65f80fdj903e",
-        "cmdb_ci": {
-          "display_value": "GMAIL",
-          "link": "https://socgentest.service-now.com/api/now/table/cmdb_ci/00f29130bgiuaa6401f65f80fdj903e"
+      { 
+        "number":"CHG000205836",
+        "sys_id":"17d469d1db59cc10e27af0152c9619f8",
+        "opened_at":"2019-11-22 19:50:01",
+        "closed_at":"2020-01-11 00:00:03",
+        "opened_by":{ 
+          "display_value":"Helene Tilleuil",
+          "link":"https://socgentest.service-now.com/api/now/table/sys_user/8fi5fjurdbaca3483a78adc3ca961907"
+        },
+        "cmdb_ci":{ 
+          "display_value":"OUTLOOK",
+          "link":"https://socgentest.service-now.com/api/now/table/cmdb_ci/a0b79208db42ba8c822ef3061d9619d3"
+        },
+        "u_change_model":"Standard",
+        "phase_state":"Open",
+        "state":"Cancelled",
+        "sys_updated_on":"2020-01-11 00:00:03",
+        "closed_by":{ 
+          "display_value":"Helene Tilleuil",
+          "link":"https://socgentest.service-now.com/api/now/table/sys_user/8fi5fjurdbaca3483a78adc3ca961907"
         }
       },
-      {
-        "end_date": "2016-05-10 04:30:07",
-        "number": "CHG000020987",
-        "state" : "CLOSED",
-        "sys_id": "012e14d1dbd39e980756423gkwi871960",
-        "cmdb_ci": {
-          "display_value": "GMAIL",
-          "link": "https://socgentest.service-now.com/api/now/table/cmdb_ci/012e14d1dbd39e980756423gkwi871960"
+      { 
+        "number":"CHG000593726",
+        "sys_id":"27d4a9d1db59cc10e27af0152c9619d5",
+        "opened_at":"2019-11-22 19:50:03",
+        "closed_at":"2020-01-11 00:00:04",
+        "opened_by":{ 
+          "display_value":"Jacques Breti",
+          "link":"https://socgentest.service-now.com/api/now/table/sys_user/0ff5debedbaca3483a78adc3ca961907"
+        },
+        "cmdb_ci":{ 
+          "display_value":"AWS",
+          "link":"https://socgentest.service-now.com/api/now/table/cmdb_ci/a0b79208db42ba8c822ef3061d9619d3"
+        },
+        "u_change_model":"Standard",
+        "phase_state":"Open",
+        "state":"Cancelled",
+        "sys_updated_on":"2020-01-11 00:00:04",
+        "closed_by":{ 
+          "display_value":"Jacques Breti",
+          "link":"https://socgentest.service-now.com/api/now/table/sys_user/0ff5debedbaca3483a78adc3ca961907"
         }
       },
-      {
-        "end_date": "2017-05-24 15:00:00",
-        "number": "CHG000025957",
-        "state" : "CLOSED",
-        "sys_id": "015e684fdbb27a8c36zzlf041d961920",
-        "cmdb_ci": {
-          "display_value": "GMAIL",
-          "link": "https://socgentest.service-now.com/api/now/table/cmdb_ci/015e684fdbb27a8c36zzlf041d961920"
+      { 
+        "number":"CHG000205837",
+        "sys_id":"9de46dd1db59cc10e27af0152c9619f6",
+        "opened_at":"2019-11-22 19:50:10",
+        "closed_at":"2020-01-11 01:00:02",
+        "opened_by":{ 
+          "display_value":"Michel Ceti",
+          "link":"https://socgentest.service-now.com/api/now/table/sys_user/0ff5khjenuaca3483a78adc3ca961907"
+        },
+        "cmdb_ci":{ 
+          "display_value":"INVISION",
+          "link":"https://socgentest.service-now.com/api/now/table/cmdb_ci/ak986408db42ba8c822ef3061d9619d3fs"
+        },
+        "u_change_model":"Standard",
+        "phase_state":"Open",
+        "state":"Cancelled",
+        "sys_updated_on":"2020-01-11 01:00:02",
+        "closed_by":{ 
+          "display_value":"Michel Ceti",
+          "link":"https://socgentest.service-now.com/api/now/table/sys_user/0ff5khjenuaca3483a78adc3ca961907"
+        }
+      },
+      { 
+        "number":"CHG000697826",
+        "sys_id":"24e42dd1db59cc10e27af0152c961976",
+        "opened_at":"2019-11-22 19:50:06",
+        "closed_at":"2020-01-11 01:00:03",
+        "opened_by":{ 
+          "display_value":"Christian Ledoc",
+          "link":"https://socgentest.service-now.com/api/now/table/sys_user/7jh78gbedbaca3483a78adc3ca961907"
+        },
+        "cmdb_ci":{ 
+          "display_value":"PAYPAL",
+          "link":"https://socgentest.service-now.com/api/now/table/cmdb_ci/o6g34908db42ba8c822ef3061d9619d3"
+        },
+        "u_change_model":"Standard",
+        "phase_state":"Open",
+        "state":"Cancelled",
+        "sys_updated_on":"2020-01-11 01:00:03",
+        "closed_by":{ 
+          "display_value":"Christian Ledoc",
+          "link":"https://socgentest.service-now.com/api/now/table/sys_user/7jh78gbedbaca3483a78adc3ca961907"
         }
       }
     ]
